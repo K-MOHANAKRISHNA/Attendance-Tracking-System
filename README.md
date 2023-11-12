@@ -9,6 +9,7 @@ Python application that automatically scans attendance with a laser scanner, sep
 - [K Mohana Krishna](https://github.com/K-MOHANAKRISHNA)
 - [M Manoj Kumar Reddy](https://github.com/manojreddy041002)
 - [N Jaya Chandra](https://github.com/jayachandra17)
+- [Sk G Hussain Basha](https://github.com/shaikgokanakonda)
 
 
 ## Problem Statement 

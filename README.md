@@ -2,7 +2,7 @@
 
 
 ## Project Description
-Python application that automatically scans attendance with a laser scanner, separates data for colleges, and sends it to the appropriate emails with date, time, and training info.
+Python application that automatically scans attendance with a laser scanner, separates data for colleges, and sends it to the appropriate emails with date, time, and training info.Program set up in Docker on Linux. Key skills: Python, Docker, Kali Linux.
 
 
 ## Team Members
